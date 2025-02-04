@@ -8,3 +8,6 @@
 6. activate virtual environment: source deepseek/bin/activate
 7. pip install -r requirements.txt
 8. streamlit run app.py
+
+
+<img width="768" alt="Screenshot 2025-02-04 at 7 29 58 PM" src="https://github.com/user-attachments/assets/8135c3f4-06d4-4967-8433-23d9d2820fbd" />
